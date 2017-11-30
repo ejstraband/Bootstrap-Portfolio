@@ -10,3 +10,8 @@ footer {
 	border-width: 3px;
 	margin-top: 10px;
 }
+
+.bio-pic {
+	width: 50%;
+	align-self: center;
+}
